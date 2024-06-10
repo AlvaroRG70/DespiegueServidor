@@ -74,7 +74,7 @@ AUTH_USER_MODEL = 'appMarketing.Usuario'
 INTERNAL_IPS = ["127.0.0.1"]
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:4200", "http://52.90.154.171"
+    "http://localhost:4200", "https://666712bf7ac3b8584f79c048--marvelous-ganache-38fba9.netlify.app"
 ]
 
 ROOT_URLCONF = 'mysite.urls'
