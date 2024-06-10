@@ -48,7 +48,7 @@ INSTALLED_APPS = [
 CORS_ALLOW_CREDENTIALS = True
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:4200",
-    "https://666712bf7ac3b8584f79c048--marvelous-ganache-38fba9.netlify.app",
+    "https://marvelous-ganache-38fba9.netlify.app",
 ]
 
 CORS_ALLOW_HEADERS = [
